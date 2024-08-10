@@ -18,4 +18,4 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sarang022/digital-clock-python.git
+   git clone https://github.com/Sarang022/Python-Programming-Beginner-Project/digital-clock-python.git
